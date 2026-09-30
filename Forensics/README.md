@@ -9,7 +9,7 @@ i ran the command and got a base64 string, which i decoded through an online too
 
 ## Solution
 (the actual technique ,code, commands, screenshots)
-![Solution](screenshots\Screenshot 2026-09-30 153515.png)
+![Solution](screenshots/s1.png)
 
 ## Flag
 
