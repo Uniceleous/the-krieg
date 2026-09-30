@@ -29,7 +29,7 @@ for some time online.
 
 ## Solution
 (the actual technique ,code, commands, screenshots)
-![Solution][screenshots/s1.png]
+![Solution](screenshots/s1.png)
 the command converts the text from UTF 8 to UTF 16
 
 ## Flag

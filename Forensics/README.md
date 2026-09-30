@@ -30,7 +30,7 @@ which had a base 64 string in the attribution URL. i then decoded it through an 
 
 ## Solution
 (the actual technique ,code, commands, screenshots)
-![Solution][2.png]
+![Solution](2.png)
 
 ## Flag
 academy{ME74D47A_HIDD3N_9266de1e}
